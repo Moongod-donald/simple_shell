@@ -4,14 +4,6 @@ This project is an implementation of the shell created as the final project for 
 
 
 
-
-
-
-
-
-
-
-
 ## Contributors :sunglasses::muscle:
 * [**Macdonald**](https://github.com/Moongod-donald)
 * [**siqnax**](https://github.com/siqnax)
